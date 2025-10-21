@@ -19,12 +19,12 @@ To run the MCP Inspector locally:
 
 ---
 
-## Setup MCP Server in Cloud
+## Setup MCP Server in Claude
 
 ### Create the Configuration File (MacOS)
 Run the following commands to create the configuration file:
 
-# Setup MCP Server in Cloud
+# Setup MCP Server in Claude
 
 ### Create the Configuration File (MacOS)
 Run the following commands to create the configuration file:
